@@ -4,3 +4,5 @@ Biuro organizacji studiów potrzebuje prostego narzędzia konsolowego, które po
 
 **Kontekst biznesowy:**
 Aplikacja ma wspierać codzienną pracę koordynatora programu. W praktyce oznacza to szybkie wyszukiwanie studentów według wybranych kryteriów, sprawdzanie aktywności zapisów, przygotowanie prostych zestawień oraz budowę bardziej złożonych raportów przekrojowych.
+
+Implementacja każdego zadania została zawarta w katalogu Exercises w pliku ZadaniaLinq.cs w oddzielnych metodach.
